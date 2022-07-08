@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nazarinh0
-- 👀 I’m interested in backend development
+- 👋 Hi, my name is Nazar
+- 👀 I’m interested in backend engineering
 - 🌱 I’m currently learning Python
 
 
