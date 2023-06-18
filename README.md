@@ -3,7 +3,7 @@
 
 ✨ You can check out projects I've already developed and some of problems I've solved (problems and other educational exercises located in "Scratches" repo, obviously the repo doesn't contain all of the problems I've solved during my learning path)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazarinh0" alt="nazarinh0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazarinh0&theme=gruvbox" alt="nazarinh0" /></a> </p>
 
 - 📫 How to reach me **nazar.annahalov@yandex.ru**
 
