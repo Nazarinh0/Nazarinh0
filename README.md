@@ -15,3 +15,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazarinh0&theme=dark" alt="nazarinh0" /></p>
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nazarinh0&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nazarinh0&theme=monokai-metallian" alt="GitHub Streak" /></a>
