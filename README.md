@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nazar</h1>
-<h3 align="center">I'm a backend engineer with a passion for building scalable and efficient software solutions
-
-✨ You can check out projects I've already developed and some of problems I've solved (problems and other educational exercises located in "Scratches" repo, obviously the repo doesn't contain all of the problems I've solved during my learning path)</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=441&lines=Hi+%F0%9F%91%8B%2C+I'm+Nazar;I'm+a+backend+engineer+%F0%9F%92%BB;Building+scalable+software+solutions;Mainly+with+Python%F0%9F%90%8D;But+also+GoLang+%26+JavaScript" alt="Typing SVG" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazarinh0&theme=gruvbox" alt="nazarinh0" /></a> </p>
 
