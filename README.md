@@ -1,5 +1,6 @@
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&random=false&width=441&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nazar;I'm+a+backend+engineer+%F0%9F%92%BB;Building+scalable+software+solutions;Mainly+with+Python%F0%9F%90%8D;But+also+GoLang+%26+JavaScript" alt="Typing SVG" /></a>
-
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazarinh0&theme=gruvbox" alt="nazarinh0" /></a> </p>
 
 - 📫 How to reach me **nazar.annahalov@yandex.ru**
