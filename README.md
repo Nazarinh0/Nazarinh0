@@ -13,5 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazarinh0&show_icons=true&theme=dracula&locale=en&layout=compact" alt="nazarinh0" /></p>
 
 
-# <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazarinh0&theme=dark" alt="nazarinh0" /></p>
+[//]: <> (<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazarinh0&theme=dark" alt="nazarinh0" /></p>)
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nazarinh0&theme=monokai-metallian" alt="GitHub Streak" /></a>
