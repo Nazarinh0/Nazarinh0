@@ -16,6 +16,8 @@
     <a href="https://github.com/Nazarinh0/python-project-lvl3"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nazarinh0&repo=python-project-lvl3&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="python-project-lvl3"></a>
     <a href="https://github.com/Nazarinh0/python-project-83"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nazarinh0&repo=python-project-83&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="python-project-lvl4"></a>
     <a href="https://github.com/Nazarinh0/python-project-52"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nazarinh0&repo=python-project-52&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="python-project-lvl5"></a>
+    <a href="https://github.com/Nazarinh0/algorithms-project-69"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nazarinh0&repo=algorithms-project-69&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="algorithms-project-69"></a>
+    <a href="https://github.com/Nazarinh0/algorithms-project-68"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Nazarinh0&repo=algorithms-project-68&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="algorithms-project-68"></a>
   </p>
 
 </details>
